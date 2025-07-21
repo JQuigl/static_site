@@ -7,7 +7,7 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-
+{/*
     // Model loading
     const [ready, setReady] = useState(null);
     const [disabled, setDisabled] = useState(false);
@@ -121,9 +121,9 @@ function App() {
             </div>
         </>
     );
-
+    */}
     // "Under-Maintenance" display
-    {/*
+   
     // Rest of application
     return (
         <div className="App">
@@ -133,7 +133,7 @@ function App() {
             </header>
         </div>
     );
-    */}
+    
 
 }
 
